@@ -12,5 +12,4 @@ See the output in [tune_triple_fives.txt](https://raw.githubusercontent.com/alex
 ## 555 Configuration
 
 The plan is to have one of these voices per note:
-
-![555 voice](https://raw.githubusercontent.com/alexanderbrevig/TripleFiveSynth/img/triplefive.png)
+![555 voice](https://raw.githubusercontent.com/AlexanderBrevig/TripleFiveSynth/main/img/triplefive.png)
