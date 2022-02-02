@@ -27,3 +27,8 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csvF
+
+
+# Added by cargo
+
+/target
