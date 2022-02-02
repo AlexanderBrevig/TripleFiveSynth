@@ -2394,40 +2394,40 @@
       (reference "R1304") (unit 1) (value "9k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/5add67ea-c906-480a-ab2d-bdd1e5c736f6/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR201") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR201") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/b0c566a0-77cf-4af2-9966-bd4d4fe30ddd/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR301") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR301") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/172d8b87-5e41-4d72-881a-d802ddabeed4/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR401") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR401") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/f96adb8b-f381-4fab-a5c9-ee8ba31dbc0a/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR501") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR501") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/19a81270-043d-4c41-9cd4-8029dbcf653e/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR601") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR601") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/a4b8b3e3-ae56-4593-89a5-9b674f662c71/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR701") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR701") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/c264dac1-6060-4fa2-b51b-b12d0d8730af/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR801") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR801") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/55d1a58f-27ed-484c-aa87-a5fb72bfc1fa/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR901") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR901") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/ace8864a-e1b6-4356-ab82-97191299e8d0/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR1001") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR1001") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/4b4ca3c8-a623-4055-91ed-10da1fa28972/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR1101") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR1101") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/a1b20006-1a00-4a0a-9fdf-f49c33172d75/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR1201") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR1201") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/365c80bb-98d2-439c-a93d-e2720539fb8a/11250487-1da3-4847-a6f8-d994c3e00b24"
-      (reference "TR1301") (unit 1) (value "${r_val}") (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical")
+      (reference "TR1301") (unit 1) (value "${r_val}") (footprint "TripleFiveSynth:Potentiometer_Bourns_3224W_Vertical")
     )
     (path "/5add67ea-c906-480a-ab2d-bdd1e5c736f6/23609297-2cc7-40ef-9ea7-449a2f0079de"
       (reference "U201") (unit 1) (value "NE555D") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")

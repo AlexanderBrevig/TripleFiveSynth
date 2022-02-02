@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "TripleFiveSynth")(type "KiCad")(uri "${KIPRJMOD}/TripleFiveSynth.pretty")(options "")(descr ""))
+)

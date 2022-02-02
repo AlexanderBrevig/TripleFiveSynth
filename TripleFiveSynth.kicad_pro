@@ -64,9 +64,12 @@
         "copper_edge_clearance|89499520|29499520|954ae31c-a98d-46e5-969a-16bac6c295c3|13c1be2d-8069-4174-b978-5022876ce1f0",
         "courtyards_overlap|101880001|31770001|7442195e-b309-4104-87d4-096c8b6e0583|df68d577-4fdb-42a9-a618-f997c5cb205b",
         "courtyards_overlap|58929999|36220001|2a0557af-99f5-4d4f-a3f5-32287aa44770|2e435b0f-671e-4da0-9b1a-48c487e95e18",
+        "courtyards_overlap|73929999|36470001|060e7195-8501-4e09-8c43-1c823c24812a|a0ca6efd-c9af-475a-a623-f71718ecb07a",
         "courtyards_overlap|73929999|36470001|a0ca6efd-c9af-475a-a623-f71718ecb07a|060e7195-8501-4e09-8c43-1c823c24812a",
+        "courtyards_overlap|88529999|36670001|2d5ff2c7-9901-4fc1-a95c-b3ae98b7ab8d|f0252edc-e8f7-43bb-bd44-03523a4233fa",
         "courtyards_overlap|88529999|36670001|f0252edc-e8f7-43bb-bd44-03523a4233fa|2d5ff2c7-9901-4fc1-a95c-b3ae98b7ab8d",
-        "courtyards_overlap|98695001|42500001|ee2b5b55-18f1-44b0-8eb7-645cdcfe2722|dd10163f-a041-4080-beea-991cfe918582"
+        "courtyards_overlap|98695001|42500001|ee2b5b55-18f1-44b0-8eb7-645cdcfe2722|dd10163f-a041-4080-beea-991cfe918582",
+        "courtyards_overlap|98719999|43529999|dd10163f-a041-4080-beea-991cfe918582|ee2b5b55-18f1-44b0-8eb7-645cdcfe2722"
       ],
       "meta": {
         "version": 2
@@ -97,7 +100,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
