@@ -1,5 +1,7 @@
 # TripleFiveSynth
 
+    Work In Progress!
+
 A simple idea of using a 555 timer per note in a synth.
 
 ## `/src/main.rs`
