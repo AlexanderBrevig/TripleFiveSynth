@@ -63,6 +63,9 @@
       "drc_exclusions": [
         "copper_edge_clearance|89499520|29499520|954ae31c-a98d-46e5-969a-16bac6c295c3|13c1be2d-8069-4174-b978-5022876ce1f0",
         "courtyards_overlap|101880001|31770001|7442195e-b309-4104-87d4-096c8b6e0583|df68d577-4fdb-42a9-a618-f997c5cb205b",
+        "courtyards_overlap|37334465|59870001|f10b6dc0-f39f-4ec0-980e-83a59fc7dc9c|3a274653-eff3-4ffe-9be8-2bfd0950af0a",
+        "courtyards_overlap|37817317|58476121|e5e03502-ed28-4743-9af6-23bafe8e639e|f10b6dc0-f39f-4ec0-980e-83a59fc7dc9c",
+        "courtyards_overlap|39065535|59870001|f10b6dc0-f39f-4ec0-980e-83a59fc7dc9c|3742a313-c63e-4807-a7bf-be5a0ae2c781",
         "courtyards_overlap|58929999|36220001|2a0557af-99f5-4d4f-a3f5-32287aa44770|2e435b0f-671e-4da0-9b1a-48c487e95e18",
         "courtyards_overlap|73929999|36470001|060e7195-8501-4e09-8c43-1c823c24812a|a0ca6efd-c9af-475a-a623-f71718ecb07a",
         "courtyards_overlap|73929999|36470001|a0ca6efd-c9af-475a-a623-f71718ecb07a|060e7195-8501-4e09-8c43-1c823c24812a",
